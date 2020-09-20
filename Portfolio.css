@@ -1,0 +1,42 @@
+.header {
+    background-color: lightgray;
+    padding: 20px;
+    text-align: left;
+}
+
+.topnav a:hover {
+    background-color: #dddddd;
+    color: blue;
+}
+
+
+.Desmond photo {
+    position: relative;
+    text-align: left;
+}
+
+.top-left {
+    position: absolute;
+    top: 20%;
+    left: 1%;
+}
+
+.top-right {
+    position: absolute;
+    top: 20%;
+    right: 1%;
+}
+
+.centered {
+    position: absolute;
+    top: 20%;
+    right: 50%;
+}
+
+.headingstyle {
+    color:blueviolet;
+    font-size: auto;
+}
+
+#table2 tr:nth-child(even){background-color: lightslategray;}
+#table3 {background-image: url(../assignment7/image/Prince.jpg);}
